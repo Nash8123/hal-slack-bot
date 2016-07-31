@@ -1,0 +1,18 @@
+# Description
+#   hubot scripts for d-tecting toxisity
+#
+# Commands:
+#   
+#   
+#   
+#   
+#
+# Author:
+#   Nash <wtnash538@gmail.com>
+
+module.exports = (robot) ->
+  robot.listen(
+    (message) ->
+      message.user.name is "d"
+        var arr=[]
+        arr.push(message)
