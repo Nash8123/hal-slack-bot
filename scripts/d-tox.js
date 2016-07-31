@@ -3,7 +3,7 @@
 //
 // Commands:
 //   hubot activate d-tox - res w/ activate msg if user is nash
-//
+//   hubot d-tox [number of messages to recall up to 10]
 //
 //
 //
