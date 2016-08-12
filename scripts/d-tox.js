@@ -1,5 +1,5 @@
 // Description
-//   hubot scripts for d-tecting toxisity
+//   hubot scripts for d-tecting toxicity
 //
 // Commands:
 //   hubot activate d-tox - res w/ activate msg if user is nash

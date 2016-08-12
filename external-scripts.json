@@ -4,6 +4,5 @@
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-maps",
-  "hubot-redis-brain",
-  "hubot-cron"
+  "hubot-redis-brain"
 ]
