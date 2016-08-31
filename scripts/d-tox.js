@@ -43,7 +43,7 @@ module.exports = function(robot) {
     }
   });
 
-  robot.respond(/d-tox (\d*)/, function (message) {
+  robot.respond(/d-tox (\d*)/i, function (message) {
     if (message.message.user.name.toLowerCase() == "d") {
       return message.reply("I dont speak italian")
     }
