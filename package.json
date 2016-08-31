@@ -5,6 +5,7 @@
   "author": "Nash8123 <wtnash538@gmail.com>",
   "description": "Utility bot for the common Nash",
   "dependencies": {
+    "@slack/client": "^3.5.4",
     "hubot": "^2.19.0",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",

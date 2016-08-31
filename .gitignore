@@ -1,4 +1,6 @@
 node_modules
 .DS_Store*
 .hubot_history
-.idea
+**/.idea/workspace.xml
+**/.idea/HAL.iml
+**/.idea/jsLibraryMappings.xml
